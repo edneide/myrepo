@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-09-23T12:15:56-03:00"
+      "contents": "\nEste blog será sobre blá blá blá\n\n\n\n",
+      "last_modified": "2021-09-23T12:18:47-03:00"
     },
     {
       "path": "index.html",
       "title": "Blog da Edneide Ramalho",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-23T12:15:58-03:00"
+      "last_modified": "2021-09-23T12:18:18-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

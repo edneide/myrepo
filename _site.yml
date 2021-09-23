@@ -2,7 +2,7 @@ name: "."
 title: "Blog da Edneide Ramalho"
 description: |
   Blog da Edneide Ramalho
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
